@@ -19,7 +19,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="#">
-    <img width="60%" align="right" alt="Boris's github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Winter2141&theme=react&border=61dafb&hide_border=true" />
+    <img width="60%" align="right" alt="Boris's github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Winter2141&theme=react&border=61dafb&hide_border=true&count_private=true" />
     <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=Winter2141&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" />
   </a>
 

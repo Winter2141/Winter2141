@@ -29,7 +29,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"></code>
   <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
   <br />
-  <code><img width="10%" src="https://verbose-equals-true.gitlab.io/django-postgres-vue-gitlab-ecs/django.jpg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/shopify/shopify-icon.svg"></code>
   <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></code>
   <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
   <br />

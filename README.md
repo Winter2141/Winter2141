@@ -21,7 +21,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <a href="#">
     <img width="60%" align="right" alt="Boris's github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Winter2141&theme=react&border=61dafb&hide_border=true" />
     <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=Winter2141&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" />
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodevcn&hide=TeX&layout=compact&theme=tokyonight)
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 

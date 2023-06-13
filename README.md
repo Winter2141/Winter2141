@@ -20,8 +20,8 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 <p>
   <a href="#">
     <img width="60%" align="right" alt="Boris's github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Winter2141&theme=react&border=61dafb&hide_border=true" />
-    <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api?username=Winter2141&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" />
-    <img align="right" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Winter2141&count_private=true&hide=TeX&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+    <img align="right" width="60%" src="https://readme-20dn5reob-winter2141.vercel.app/api?username=Winter2141&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" />
+    <img align="right" width="60%" src="https://readme-git-main-winter2141.vercel.app/api/top-langs/?username=Winter2141&count_private=true&hide=TeX&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
   </a>
 
   <!-- Your languages and tools. Be careful with the alignment. 

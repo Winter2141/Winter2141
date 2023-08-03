@@ -11,6 +11,13 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Winter2141&theme=darkhub&row=1&column=4">
+</div>
+&nbsp;
+&nbsp;
+&nbsp;
 **Languages and Tools:** 
 
 <!-- Your github readme stats
@@ -48,12 +55,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"></code>
 </p>
-
-&nbsp;
-&nbsp;
-<div align="right">
-<img src="https://github-profile-trophy.vercel.app/?username=Winter2141&theme=darkhub&row=1&column=4">
-</div>
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great

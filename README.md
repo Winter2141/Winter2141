@@ -11,7 +11,6 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 &nbsp;
 &nbsp;
-
 **Languages and Tools:** 
 
 <!-- Your github readme stats
@@ -19,7 +18,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 -->
 <p>
   <a href="#">
-    <img width="60%" align="right" alt="Boris's github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Winter2141&theme=react&border=61dafb&hide_border=true" />
+    <img width="60%" align="right" alt="Winter2141's github stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Winter2141&theme=react&border=61dafb&hide_border=true" />
     <img align="right" width="60%" src="https://readme-git-main-winter2141.vercel.app/api/top-langs/?username=Winter2141&count_private=true&hide=TeX&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
     <img align="right" width="60%" src="https://readme-20dn5reob-winter2141.vercel.app/api?username=Winter2141&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" />
   </a>
@@ -50,6 +49,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"></code>
 </p>
 
+<div align="left" width="60%">
+<img src="https://github-profile-trophy.vercel.app/?username=Winter2141&theme=darkhub&row=1&column=4">
+</div>
 <!-- Your hits or visitors
 site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great

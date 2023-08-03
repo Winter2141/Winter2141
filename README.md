@@ -49,7 +49,9 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"></code>
 </p>
 
-<div align="left" width="60%">
+&nbsp;
+&nbsp;
+<div align="right">
 <img src="https://github-profile-trophy.vercel.app/?username=Winter2141&theme=darkhub&row=1&column=4">
 </div>
 <!-- Your hits or visitors

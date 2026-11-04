@@ -1,13 +1,13 @@
 <div align="center">
 
-# Hi there, I'm Winter 👋
+# Hi there, I'm Greg 👋
 
 <a href="https://github.com/Winter2141">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Developer;React+%7C+Vue+%7C+TypeScript+%7C+Node.js;Building+scalable%2C+end-to-end+web+products" alt="Typing SVG" />
 </a>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Winter2141-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Winter2141)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swinter2141@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gs3nas.dev@gmail.com)
 
 </div>
 
@@ -22,7 +22,7 @@ I'm a **Senior Full Stack Developer** who designs, builds, and ships complete we
 - 🗄️ Modeling data across **PostgreSQL**, **MySQL**, **MongoDB**, and **Firebase**
 - 🛒 Developing custom **Shopify** storefronts, themes, and app integrations
 - 🤝 Leading delivery in agile teams — planning, code review, and mentoring
-- 📫 Reach me at **swinter2141@gmail.com**
+- 📫 Reach me at **gs3nas.dev@gmail.com**
 
 ---
 
@@ -91,7 +91,7 @@ I'm a **Senior Full Stack Developer** who designs, builds, and ships complete we
 
 I'm open to senior full stack roles, freelance projects, and technical collaborations.
 
-[![Email Me](https://img.shields.io/badge/Email%20Me-swinter2141%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swinter2141@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email%20Me-gs3nas.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gs3nas.dev@gmail.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Winter2141&color=61dafb&style=flat-square&label=Profile+Views)
 
